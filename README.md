@@ -20,6 +20,18 @@ An Assistive mobile robot for the visually impaired that combines computer visio
 
 3. play a song on youtube : Plays requested video on YouTube
 
+4. forward: Robot moves forward
+
+5. back: Robot moves Back
+
+6. left: Robot moves left
+
+7. right: robot moves right
+
+8: stop: robots stops
+
+9: turn on/off camera: turns on and off the camera.
+
 # Speech Feedback:
 1. All actions and detections are spoken using pyttsx3.
 
